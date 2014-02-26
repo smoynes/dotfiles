@@ -1,4 +1,7 @@
 (starter-kit-load "python")
+(starter-kit-load "misc")
+(starter-kit-load "misc-recommended")
+(starter-kit-load "yasnippet")
 
 (tool-bar-mode nil)
 (column-number-mode t)
